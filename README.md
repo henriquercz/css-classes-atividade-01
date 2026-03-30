@@ -1,5 +1,8 @@
 # Atividade CSS - 01
 
+# OBS
+Não consegui realizar os ultimos dois desafios
+
 Clone este repositório na sua máquina.
 
 A sua estrutura HTML estará assim:
